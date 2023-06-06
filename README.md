@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hgohil2000
 - 👀 I’m interested in technology and testing software
-- 🌱 I’m currently learning JavaScript and exploring various testing frameworks
+- 🌱 I enjoy exploring testing frameworks
 
 
 <!---
